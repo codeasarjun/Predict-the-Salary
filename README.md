@@ -11,18 +11,15 @@ Streamlit is an open-source Python library that makes it easy to create web appl
 Linear Regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. In this project, Linear Regression is employed to predict salary based on various features such as education level, years of experience, job title, etc.
 
 
+# 📊 The  Dataset
+The "survey_2021.csv" dataset from Kaggle contains information collected from a survey conducted in 2021. It includes features such as:
 
-Predict-the-Salary 🚀
-Welcome to Predict-the-Salary, a powerful web application built with Python and Streamlit, designed to predict salaries based on insightful data analysis and state-of-the-art Linear Regression techniques. Utilizing the "survey_2021.csv" dataset sourced from Kaggle, this project offers an engaging and interactive platform for exploring salary predictions.
-
-🌟 What is Streamlit?
-Streamlit is your ticket to creating captivating web applications effortlessly using Python. It empowers developers to craft visually stunning and interactive web experiences for showcasing machine learning models and data analysis projects, making complex data easily accessible and understandable.
-
-📊 Understanding Linear Regression
-Linear Regression is the superhero of statistical modeling, swooping in to analyze the relationship between variables with precision. In this project, Linear Regression works its magic to predict salaries based on a plethora of features such as education level, years of experience, job title, and more.
-
-📊 The Dynamic Dataset
-The "survey_2021.csv" dataset sourced from Kaggle serves as our treasure trove of information. Bursting with rich features including salary, education level, years of experience, job title, location, and industry, this dataset fuels our predictions and insights.
+Salary<br>
+Education Level<br>
+Years of Experience<br>
+Job Title<br>
+Location<br>
+Industry<br>
 
 # 🚀 Running the Application
 
